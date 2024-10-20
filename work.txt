@@ -1,0 +1,14 @@
+sm 640 
+lg  1024
+xl 1284
+
+
+
+sm: 640px (mobile phones).
+
+md: 768px  (tablets).
+
+lg:  1024 (laptops).
+
+xl: 1280px   (desktops).
+
